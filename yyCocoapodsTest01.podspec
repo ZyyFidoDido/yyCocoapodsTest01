@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
   yyCocoapodsTest01 是张小鱼用来测试的
                         DESC
 
-  s.homepage         = 'https://github.com/xxyxxy/yyCocoapodsTest01'
+  s.homepage         = 'https://github.com/ZyyFidoDido/yyCocoapodsTest01.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'xxyxxy' => 'test@runoob.com' }
-  s.source           = { :git => 'https://github.com/xxyxxy/yyCocoapodsTest01.git', :tag => s.version.to_s }
+  s.author           = { 'ZyyFidoDido' => '283735151@qq.com' }
+  s.source           = { :git => 'https://github.com/ZyyFidoDido/yyCocoapodsTest01.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

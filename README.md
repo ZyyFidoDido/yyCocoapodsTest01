@@ -1,6 +1,6 @@
 # yyCocoapodsTest01
 
-[![CI Status](https://img.shields.io/travis/xxyxxy/yyCocoapodsTest01.svg?style=flat)](https://travis-ci.org/xxyxxy/yyCocoapodsTest01)
+[![CI Status](https://img.shields.io/travis/ZyyFidoDido/yyCocoapodsTest01.svg?style=flat)](https://travis-ci.org/ZyyFidoDido/yyCocoapodsTest01)
 [![Version](https://img.shields.io/cocoapods/v/yyCocoapodsTest01.svg?style=flat)](https://cocoapods.org/pods/yyCocoapodsTest01)
 [![License](https://img.shields.io/cocoapods/l/yyCocoapodsTest01.svg?style=flat)](https://cocoapods.org/pods/yyCocoapodsTest01)
 [![Platform](https://img.shields.io/cocoapods/p/yyCocoapodsTest01.svg?style=flat)](https://cocoapods.org/pods/yyCocoapodsTest01)
@@ -22,7 +22,7 @@ pod 'yyCocoapodsTest01'
 
 ## Author
 
-xxyxxy, test@runoob.com
+ZyyFidoDido, 283735151@qq.com
 
 ## License
 
