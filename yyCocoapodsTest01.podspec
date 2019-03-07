@@ -22,8 +22,6 @@ DESC
 
   s.description      = <<-DESC
                             yyCocoapodsTest01 是一个用于张小鱼用来测试的
-                        DESC
-TODO: Add long description of the pod here.
                        DESC
 
   s.homepage         = 'https://github.com/xxyxxy/yyCocoapodsTest01'
