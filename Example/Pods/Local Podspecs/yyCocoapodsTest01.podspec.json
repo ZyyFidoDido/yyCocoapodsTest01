@@ -1,0 +1,22 @@
+{
+  "name": "yyCocoapodsTest01",
+  "version": "0.1.0",
+  "summary": "A short description of yyCocoapodsTest01.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xxyxxy/yyCocoapodsTest01",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xxyxxy": "test@runoob.com"
+  },
+  "source": {
+    "git": "https://github.com/xxyxxy/yyCocoapodsTest01.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "yyCocoapodsTest01/Classes/**/*"
+}
