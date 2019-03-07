@@ -18,11 +18,9 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
 
-DESC
-
   s.description      = <<-DESC
   yyCocoapodsTest01 是张小鱼用来测试的
-  DESC
+                        DESC
 
   s.homepage         = 'https://github.com/xxyxxy/yyCocoapodsTest01'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
