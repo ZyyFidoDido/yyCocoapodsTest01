@@ -21,8 +21,8 @@ Pod::Spec.new do |s|
 DESC
 
   s.description      = <<-DESC
-                            yyCocoapodsTest01 是一个用于张小鱼用来测试的
-                       DESC
+  yyCocoapodsTest01 是张小鱼用来测试的
+  DESC
 
   s.homepage         = 'https://github.com/xxyxxy/yyCocoapodsTest01'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
